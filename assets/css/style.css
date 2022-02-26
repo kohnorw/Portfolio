@@ -1,13 +1,9 @@
-/**
-* Template Name: iPortfolio - v3.7.0
-* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
@@ -251,7 +247,7 @@ h1, h2, h3, h4, h5, h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  padding: 50px 0;
   overflow: hidden;
 }
 
@@ -611,7 +607,8 @@ section {
 # Contact
 --------------------------------------------------------------*/
 .contact {
-  padding-bottom: 130px;
+padding-top: 400px;
+padding-bottom: 400px;
 }
 .contact .info {
   padding: 30px;
@@ -771,29 +768,41 @@ section {
   }
 }
 
-.phone{
+.emailmove{
 position: relative;
 right: auto;
-top: auto;
+top: -15px;
 }
+
+.phonemove{
+  position: relative;
+  right: 44px;
+  top: 20px;
+  }
+  
 
 .hemail{
   position: relative;
   visibility: hidden;
-  left: auto;
-  top: auto;
+  left: 10px;
+  top: -5px;
   }
 
 .pnumber{
 position: relative;
 visibility: hidden;
-left: auto;
-top: auto;
+top: 30px;
+left: -35px;
 }
 
 .email{
   position: relative;
   bottom: auto;
+}
+
+.contactb{
+  position: relative;
+  top: 5px;
 }
 
 /*--------------------------------------------------------------
