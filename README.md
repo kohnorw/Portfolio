@@ -1,4 +1,4 @@
-# Porfolio Website
+# Kohnor Wrzosek's Porfolio Website
 
 Kohnor Wrzosek's porfolio website written in HTML/CSS/Javascript.
 
